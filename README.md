@@ -83,7 +83,7 @@ Output :
   <summary><b>List dari modul di atas (jenis-modul = film)</b> (tekan untuk melihat)</summary>
 
 | nama modul | params | response | description |
-| :--- | :---------- | :--- | :--- | :--- |
+| :--- | :---------- | :--- | :--- |
 | bioskopcomingsoon | page | JSON | Mencari data film bioskop yang akan hadir |
 | animesearch | page && search | JSON | Mencari film anime dari web nekonime.vip |
 
@@ -118,7 +118,7 @@ Output :
   <summary><b>List dari modul di atas (jenis-modul = bmkg)</b> (tekan untuk melihat)</summary>
 
 | nama modul | params | response | description |
-| :--- | :---------- | :--- | :--- | :--- |
+| :--- | :---------- | :--- | :--- |
 | gempaterkini | - | JSON | Menampilkan Data gempa terkini di Indonesia |
 | infoiklim | - | JSON | Menampilkan Gambar info iklim di Indonesia |
 | citrasatelit | - | JSON | Menampilkan Gambar citra satelit Indonesia |
@@ -196,7 +196,7 @@ Output :
   <summary><b>List dari modul di atas (jenis-modul = wallpaper)</b> (tekan untuk melihat)</summary>
 
 | nama modul | params | response | description |
-| :--- | :---------- | :--- | :--- | :--- |
+| :--- | :---------- | :--- | :--- |
 | wallpaper | search &  page | JSON | Mencari gambar wallpaper dalam format JSON |
 
 </details>
@@ -226,7 +226,7 @@ Output :
   <summary><b>List dari modul di atas (jenis-modul = kemdikbud)</b> (tekan untuk melihat)</summary>
 
 | nama modul | params | response | description |
-| :--- | :---------- | :--- | :--- | :--- |
+| :--- | :---------- | :--- | :--- |
 | kbbi | kata | JSON | Mencari arti kata di Kamus Besar Bahasa Indonesia |
 
 </details>
@@ -278,7 +278,7 @@ Output :
   <summary><b>List dari modul di atas (jenis-modul = stayhalal)</b> (tekan untuk melihat)</summary>
 
 | nama modul | params | response | description |
-| :--- | :---------- | :--- | :--- | :--- |
+| :--- | :---------- | :--- | :--- |
 | datamasjid | provinsi & page | JSON | Menampilkan data masjid di Indonesia |
 
 </details>
