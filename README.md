@@ -25,7 +25,7 @@ wpuopenapi.jenis-modul.nama-modul(params)
 
 ```js
 //Contoh!
-wpuopenapi.apiFilm.bioskopcomingsoon()
+wpuopenapi.apiFilm.bioskopcomingsoon('2')
 .then(res => console.log(res))
 .catch(err => console.log(err))
 ```
